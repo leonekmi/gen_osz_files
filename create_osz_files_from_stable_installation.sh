@@ -1,6 +1,7 @@
 #!/bin/bash
+# Generate .osz files from a valid Songs/ folder
+# (c) 2017 leonekmi - The Unlicense
 confirm() {
-    # call with a prompt string or use a default
     read -r -p "${1:-Are you sure? [y/N]} " response
     case "$response" in
         [yY][eE][sS]|[yY])
