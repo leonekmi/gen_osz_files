@@ -5,4 +5,4 @@ Put this script in a Songs/ folder and run it, after you will have all your .osz
 
 **Note** : don't run osu! or it will process ALL the .osz so move these .osz elsewhere
 
-![You see !, it's works !](https://media.giphy.com/media/xT9IgyN9qIgUyXr6hO/giphy.gif)
+![You see, it's works !](https://thumbs.gfycat.com/SophisticatedLoathsomeFox-size_restricted.gif)
