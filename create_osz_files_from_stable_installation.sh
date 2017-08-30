@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/bash
 for d in */
 do
     tput setaf 2
